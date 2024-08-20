@@ -13,7 +13,7 @@ Bora se conectar!
 
 <details>
   <summary>Click to see my bio in English</summary>
-  
+  <br>
   Hello! I'm João Vítor Ferraz (a.k.a. jota or p1pa) 👋
 
   I'm a Web Developer with 3 years of experience dedicated to Front-end Development using **JavaScript/TypeScript**. My primary focus is around **React** and its frameworks like Next and Astro.
