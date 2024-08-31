@@ -12,7 +12,7 @@ Gosto também de trabalhar em projetos free-lance construindo landing pages para
 Bora se conectar!
 
 <details>
-  <summary>Click to see my bio in English</summary>
+  <summary><strong>Click to see my bio in English</strong></summary>
   <br>
   Hello! I'm João Vítor Ferraz (a.k.a. jota or p1pa) 👋
 
