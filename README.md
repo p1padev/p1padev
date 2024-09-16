@@ -1,30 +1,45 @@
-# Salve! Sou o João Vítor Ferraz (a.k.a. jota ou p1pa) 👋
+# hey there! i'm joão, but you can call me by p1pa or jay 👋
 
-Sou um Desenvolvedor Full-stack com 3 anos de experiência, principalmente dedicados no Desenvolvimento Front-end utilizando **Javascript/Typescript**. Meu foco de trabalho principal é ao redor do **React** e seus frameworks como o Next e Astro. 
+i'm a fullstack developer with 3 years of experience using **javascript/typescript**. my primary focus is around **react** and its frameworks like next and astro, and i enjoy building apis with node.js and postgres.
 
-- Me sinto confortável utilizando uma série de ferramentas atuais como: Tailwind CSS, Styled-components, SASS, Webpack, Vite, TanStack Query, Zustand e muito mais.
-- Minha experiência com TDD foi utilizando Jest/Vitest (e RTL para projetos com React). 
-- Tenho familiaridade com as últimas especificações *vanilla* do HTML, CSS e Javascript. 
-- Por fim, também tive experiência trabalhando com código legado que utilizava jQuery e Mustache.js para construção de templates.
+![typescript](https://img.shields.io/badge/-typescript-3178c6?style=flat-square&logo=typescript&logocolor=white)
+![javascript](https://img.shields.io/badge/-javascript-f7df1e?style=flat-square&logo=javascript&logocolor=black)
+![react](https://img.shields.io/badge/-react-61dafb?style=flat-square&logo=react&logocolor=black)
+![node.js](https://img.shields.io/badge/-node.js-339933?style=flat-square&logo=node.js&logocolor=white)
+![postgresql](https://img.shields.io/badge/-postgresql-336791?style=flat-square&logo=postgresql&logocolor=white)
+![linux](https://img.shields.io/badge/-linux-fcc624?style=flat-square&logo=linux&logocolor=black)
 
-Gosto também de trabalhar em projetos free-lance construindo landing pages para pessoas próximas, além de projetos pessoais para estudos (alguns deles disponíveis por aqui). Meu foco no momento tem sido um aprofundamento em tópicos de System Design para o Front-end e aproximação com o desenvolvimento full-stack utilizando Node.
+- i'm comfortable using a wide range of fe modern tools such as tailwind css, styled-components, sass, webpack, vite, tanstack query, zustand and many more
+- i don't have any preference for backend frameworks - my experience so far has involved express, ejs, prisma, typeorm and postgres. validation on both ends with zod
+- i enjoy tdd using jest/vitest alongside plugins for each end
+- i focus on keeping up to date with the latest vanilla specifications of html, css, and javascript
+- i have experience working with legacy code that used jquery and mustache.js for template construction
 
-Bora se conectar!
+i also enjoy working on freelance projects building landing pages for people i know, as well as personal projects for learning (some of which are available here).
+
+let's connect!
 
 <details>
   <summary><strong>Click to see my bio in English</strong></summary>
   <br>
-  Hello! I'm João Vítor Ferraz (a.k.a. jota or p1pa) 👋
+salve! sou o joão, mas também pode me chamar por p1pa ou jota 👋
 
-  I'm a Web Developer with 3 years of experience dedicated to Front-end Development using **JavaScript/TypeScript**. My primary focus is around **React** and its frameworks like Next and Astro.
-  
-  - I’m comfortable using a range of modern tools such as Tailwind CSS, Styled-components, SASS, Webpack, Vite, TanStack Query, Zustand, and more.
-  - My experience with TDD has been with Jest/Vitest (and RTL for React projects).
-  - I’m familiar with the latest *vanilla* specifications of HTML, CSS, and JavaScript.
-  - Lastly, I also have experience working with legacy code that used jQuery and Mustache.js for template construction.
-  
-  I also enjoy working on freelance projects building landing pages for people I know, as well as personal projects for learning (some of which are available here). Currently, my focus is on diving deeper into System Design topics for Front-end and getting closer to full-stack development.
-  
-  Let’s connect!
+sou um desenvolvedor fullstack com 3 anos de experiência usando **javascript/typescript**. meu foco principal é em **react** e seus frameworks como next e astro, e curto construir apis com node.js e postgres.
+
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+
+- tenho tranquilidade para utilizar uma série de ferramentas atuais para front-end como Tailwind CSS, Styled-components, SASS, Webpack, Vite, TanStack Query, Zustand e muito mais.
+- não tenho preferência por frameworks de back-end - minha experiência até agora envolveu express, ejs, prisma, typeorm e postgres. validação em ambas as pontas com zod
+- gosto de tdd usando jest/vitest junto com plugins para cada ponta
+- foco em me manter atualizado com as mais recentes especificações vanilla de html, css e javascript
+- tenho experiência trabalhando com código legado que usava jquery e mustache.js para construção de templates
+
+gosto também de trabalhar em projetos free-lance construindo landing pages para pessoas próximas, além de projetos pessoais para estudos (alguns deles disponíveis por aqui).
+
+bora se conectar!
 
 </details>
