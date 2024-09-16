@@ -2,12 +2,12 @@
 
 i'm a fullstack developer with 3 years of experience using **javascript/typescript**. my primary focus is around **react** and its frameworks like next and astro, and i enjoy building apis with node.js and postgres.
 
-![typescript](https://img.shields.io/badge/-typescript-3178c6?style=flat-square&logo=typescript&logocolor=white)
-![javascript](https://img.shields.io/badge/-javascript-f7df1e?style=flat-square&logo=javascript&logocolor=black)
-![react](https://img.shields.io/badge/-react-61dafb?style=flat-square&logo=react&logocolor=black)
-![node.js](https://img.shields.io/badge/-node.js-339933?style=flat-square&logo=node.js&logocolor=white)
-![postgresql](https://img.shields.io/badge/-postgresql-336791?style=flat-square&logo=postgresql&logocolor=white)
-![linux](https://img.shields.io/badge/-linux-fcc624?style=flat-square&logo=linux&logocolor=black)
+![typescript](https://img.shields.io/badge/-typescript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![javascript](https://img.shields.io/badge/-javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=white)
+![react](https://img.shields.io/badge/-react-61DAFB?style=flat-square&logo=react&logoColor=white)
+![node.js](https://img.shields.io/badge/-node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![postgresql](https://img.shields.io/badge/-postgresql-336791?style=flat-square&logo=postgresql&logoColor=white)
+![linux](https://img.shields.io/badge/-linux-FCC624?style=flat-square&logo=linux&logoColor=white)
 
 - i'm comfortable using a wide range of fe modern tools such as tailwind css, styled-components, sass, webpack, vite, tanstack query, zustand and many more
 - i don't have any preference for backend frameworks - my experience so far has involved express, ejs, prisma, typeorm and postgres. validation on both ends with zod
