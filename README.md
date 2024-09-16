@@ -1,4 +1,4 @@
-# hey there! i'm joão, but you can call me by p1pa or jay 👋
+# hey, i'm joão, but you can call me by p1pa or jay 👋
 
 i'm a fullstack developer with 3 years of experience using **javascript/typescript**. my primary focus is around **react** and its frameworks like next and astro, and i enjoy building apis with node.js and postgres.
 
