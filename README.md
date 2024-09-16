@@ -2,11 +2,11 @@
 
 i'm a fullstack developer with 3 years of experience using **javascript/typescript**. my primary focus is around **react** and its frameworks like next and astro, and i enjoy building apis with node.js and postgres.
 
-![typescript](https://img.shields.io/badge/-typescript-3178C6?style=flat-square&logo=typescript&logoColor=black&textColor=black)
+![typescript](https://img.shields.io/badge/-typescript-3178C6?style=flat-square&logo=typescript&logoColor=white&textColor=white)
 ![javascript](https://img.shields.io/badge/-javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black&textColor=black)
 ![react](https://img.shields.io/badge/-react-61DAFB?style=flat-square&logo=react&logoColor=black&textColor=black)
-![node.js](https://img.shields.io/badge/-node.js-339933?style=flat-square&logo=node.js&logoColor=black&textColor=black)
-![postgresql](https://img.shields.io/badge/-postgresql-336791?style=flat-square&logo=postgresql&logoColor=black&textColor=black)
+![node.js](https://img.shields.io/badge/-node.js-339933?style=flat-square&logo=node.js&logoColor=white&textColor=white)
+![postgresql](https://img.shields.io/badge/-postgresql-336791?style=flat-square&logo=postgresql&logoColor=white&textColor=white)
 ![linux](https://img.shields.io/badge/-linux-FCC624?style=flat-square&logo=linux&logoColor=black&textColor=black)
 
 - i'm comfortable using a wide range of fe modern tools such as tailwind css, styled-components, sass, webpack, vite, tanstack query, zustand and many more
@@ -20,7 +20,7 @@ i also enjoy working on freelance projects building landing pages for people i k
 let's connect!
 
 <details>
-  <summary><strong>Click to see my bio in English</strong></summary>
+  <summary><strong>Click to see my bio in pt-br</strong></summary>
   <br>
 salve! sou o joão, mas também pode me chamar por p1pa ou jota 👋
 
