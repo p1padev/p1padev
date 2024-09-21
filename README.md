@@ -11,7 +11,7 @@ i'm a fullstack developer with 3 years of experience using **javascript/typescri
 
 - i'm comfortable using a wide range of fe modern tools such as tailwind css, styled-components, sass, webpack, vite, tanstack query, zustand and many more
 - i don't have any preference for backend frameworks - my experience so far has involved express, ejs, prisma, typeorm and postgres. validation on both ends with zod
-- i enjoy tdd using jest/vitest alongside plugins for each end
+- i like to do tdd using jest/vitest alongside plugins for each end
 - i focus on keeping up to date with the latest vanilla specifications of html, css, and javascript
 - i have experience working with legacy code that used jquery and mustache.js for template construction
 
@@ -32,7 +32,7 @@ sou um desenvolvedor fullstack com 3 anos de experiência usando **javascript/ty
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 
-- tenho tranquilidade para utilizar uma série de ferramentas atuais para front-end como Tailwind CSS, Styled-components, SASS, Webpack, Vite, TanStack Query, Zustand e muito mais.
+- tenho tranquilidade para utilizar uma série de ferramentas atuais para front-end como tailwind CSS, styled-components, sass, webpack, vite, tanstack query, zustand e muito mais.
 - não tenho preferência por frameworks de back-end - minha experiência até agora envolveu express, ejs, prisma, typeorm e postgres. validação em ambas as pontas com zod
 - gosto de tdd usando jest/vitest junto com plugins para cada ponta
 - foco em me manter atualizado com as mais recentes especificações vanilla de html, css e javascript
