@@ -20,7 +20,7 @@ i also enjoy working on freelance projects building landing pages for people i k
 let's connect!
 
 <details>
-  <summary><strong>Click to see my bio in pt-br</strong></summary>
+  <summary><strong>Bio em pt-br:</strong></summary>
   <br>
 salve! sou o joão, mas também pode me chamar por p1pa ou jota 👋
 
