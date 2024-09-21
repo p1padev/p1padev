@@ -26,12 +26,6 @@ salve! sou o joão, mas também pode me chamar por p1pa ou jota 👋
 
 sou um desenvolvedor fullstack com 3 anos de experiência usando **javascript/typescript**. meu foco principal é em **react** e seus frameworks como next e astro, e curto construir apis com node.js e postgres.
 
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-
 - tenho tranquilidade para utilizar uma série de ferramentas atuais para front-end como tailwind CSS, styled-components, sass, webpack, vite, tanstack query, zustand e muito mais.
 - não tenho preferência por frameworks de back-end - minha experiência até agora envolveu express, ejs, prisma, typeorm e postgres. validação em ambas as pontas com zod
 - gosto de tdd usando jest/vitest junto com plugins para cada ponta
