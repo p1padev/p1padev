@@ -1,6 +1,6 @@
 ### hey, i'm joão, but you can call me by p1pa or jay 👋
 
-i'm a fullstack developer with 3 years of experience using **javascript/typescript**. my primary focus is around **react** and its frameworks like next and astro, and i enjoy building apis with **node.js** and **postgres**.
+i'm a fullstack developer with 3 years of experience using **javascript/typescript**. my primary focus is around **react** and its frameworks like next and astro, and i enjoy building apis with **node.js** and **postgres**. right now I'm working @ Dynamox, an industry/tech company located in Florianópolis / SC.
 
 ![typescript](https://img.shields.io/badge/-typescript-3178C6?style=flat-square&logo=typescript&logoColor=white&textColor=white)
 ![javascript](https://img.shields.io/badge/-javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black&textColor=black)
@@ -24,7 +24,7 @@ let's connect!
   <br>
 salve! sou o joão, mas também pode me chamar por p1pa ou jota 👋
 
-sou um desenvolvedor fullstack com 3 anos de experiência usando **javascript/typescript**. meu foco principal é em **react** e seus frameworks como next e astro, e curto construir apis com node.js e postgres.
+sou um desenvolvedor fullstack com 3 anos de experiência usando **javascript/typescript**. meu foco principal é em **react** e seus frameworks como next e astro, e curto construir apis com node.js e postgres. atualmente estou trabalhado na Dynamox, uma empresa voltada para indústria/tecnologia localizada em Floripa/SC.
 
 - tenho tranquilidade para utilizar uma série de ferramentas atuais para front-end como tailwind CSS, styled-components, sass, webpack, vite, tanstack query, zustand e muito mais.
 - não tenho preferência por frameworks de back-end - minha experiência até agora envolveu express, ejs, prisma, typeorm e postgres. validação em ambas as pontas com zod
